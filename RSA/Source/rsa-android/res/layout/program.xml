@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_bg"
+    android:orientation="vertical" >
+<!-- 
+    <TabHost
+        android:id="@+id/tabHost"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+        </TabWidget>
+
+        <FrameLayout
+            android:id="@android:id/tabcontent"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:paddingTop="64dip" >
+
+            <AnalogClock
+                android:id="@+id/tab1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+            </AnalogClock>
+
+        </FrameLayout>
+    </TabHost>
+ -->
+ 
+</LinearLayout>

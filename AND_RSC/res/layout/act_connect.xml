@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/penguin_connect_frame"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/IP_EditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" 
+        android:text="">
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/Connect_Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CONNECT !" 
+        android:layout_gravity="right"/>
+
+</LinearLayout>

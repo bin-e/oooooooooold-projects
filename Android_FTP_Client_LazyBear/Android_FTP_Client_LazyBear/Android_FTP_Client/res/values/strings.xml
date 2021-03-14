@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <!-- menu member -->
+    <string name="string_reconnect">ReConnect</string>
+        
+    <string name="app_name">FTP_Client</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_connect">Connect</string>
+
+</resources>

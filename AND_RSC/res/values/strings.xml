@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">RSC</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_rsc_main">RSC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_rsc__select">RSC_Select</string>
+
+</resources>

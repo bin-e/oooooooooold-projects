@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/penguin_button_frame2"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/Button_Melon_ON"
+            android:layout_width="190dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginTop="37dp"
+            android:background="#00000000"
+            android:text=" " />
+
+        <Button
+            android:id="@+id/Button_Melon_OFF"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="46dp"
+            android:background="#00000000"
+            android:text=" " />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/Button_Eclipse_OFF"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="40dp"
+            android:background="#00000000"
+            android:text=" " />
+
+        <Button
+            android:id="@+id/Button_Eclipse_ON"
+            android:layout_width="160dp"
+            android:layout_height="69dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="40dp"
+            android:background="#00000000"
+            android:text=" " />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/Button_NateOn_ON"
+            android:layout_width="160dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:background="#00000000"
+            android:text=" " />
+
+        <Button
+            android:id="@+id/Button_NateOn_OFF"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="30dp"
+            android:background="#00000000"
+            android:text=" " />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/Button_GOM_OFF"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="66dp"
+            android:layout_marginTop="30dp"
+            android:background="#00000000"
+            android:text=" " />
+
+        <Button
+            android:id="@+id/Button_GOM_ON"
+            android:layout_width="170dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="30dp"
+            android:background="#00000000"
+            android:text=" " />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/Button_LOL_OFF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="200dp"
+            android:text="LOLOFF" />
+
+        <Button
+            android:id="@+id/Button_LOL_ON"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="200dp"
+            android:text="LOL" />
+    </LinearLayout>
+
+</LinearLayout>

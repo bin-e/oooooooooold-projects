@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Subject String -->
+    <string name="app_name">rsa</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">main</string>
+    <string name="title_activity_connect">connect</string>
+
+    <!-- Splash Activity Strings -->
+    <string name="MyInfo">20125135 박정욱</string>
+    <string name="VersionInfo">Ver 0.1.1 (Test Version)</string>
+
+    <!-- Connet Activity Strings -->
+    <string name="title_paired_client">Paired Client</string>
+    <string name="title_other_client">Other Available Client</string>
+    <string name="title_activity_program">program</string>
+    <string name="title_activity_mouse">mouse</string>
+    <string name="title_activity_wake_on_lan">MainActivity</string>
+    <string name="title_activity_program_ppt">program_ppt</string>
+    <string name="title_activity_program_gom">program_gom</string>
+    <string name="title_activity_program_melon">program_melon</string>
+    <string name="title_activity_program_etc">program_etc</string>
+    <string name="title_activity_help">Help</string>
+
+</resources>
